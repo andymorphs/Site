@@ -33,4 +33,24 @@
 .site-logo{display:flex;}
 .site-header .wrapper{/*display:flex;*/}
 
+.social-home .svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: currentColor;
+    padding: 5px 3px 2px 5px;
+    color: #ffffff;
+    vertical-align: text-bottom;
+}
+
+.social-home li a {
+    display: block;
+    padding: 7.5px;
+    color: #ffffff;
+    background: rgb(58,79,180);
+    background: -moz-linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    background: linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3a4fb4",endColorstr="#1dfd60",GradientType=1);
+}
 
