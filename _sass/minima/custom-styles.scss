@@ -34,7 +34,7 @@
 .site-header .wrapper{/*display:flex;*/}
 
 .social-home {
-    /* display: flex; */
+    display: list-item;
     margin: 0 auto;
 }
 
@@ -57,5 +57,6 @@
     background: -webkit-linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
     background: linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3a4fb4",endColorstr="#1dfd60",GradientType=1);
+    width: 100%;
 }
 
