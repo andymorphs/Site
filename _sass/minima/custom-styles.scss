@@ -27,5 +27,10 @@
     padding:0;
     text-transform: uppercase;
 }
-.site-header .wrapper{display:flex;}
+
+.site-logo{width: 300px; margin: auto;}
+
+.site-logo svg{display:flex;}
+.site-header .wrapper{/*display:flex;*/}
+
 
