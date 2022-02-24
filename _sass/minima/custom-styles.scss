@@ -24,11 +24,11 @@
     align-content: center!important;
     font-family: 'Luckiest Guy';
     font-size:3rem;
-    padding:0;
+    padding: 0 0 2rem 0;
     text-transform: uppercase;
 }
 
-.site-logo svg{width: 300px; margin: auto;}
+.site-logo svg{width: 200px; margin: auto; padding:2rem;}
 
 .site-logo{display:flex;}
 .site-header .wrapper{/*display:flex;*/}
