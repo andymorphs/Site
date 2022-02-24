@@ -5,6 +5,8 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     
+    
+    <svg class="svg-logo"><use xlink:href="{{ '/assets/minima-social-icons.svg#image0_1512_12' | relative_url }}"></use></svg>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.description | escape }}</a>
 
     
