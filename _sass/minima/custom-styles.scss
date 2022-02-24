@@ -36,6 +36,7 @@
 .social-home {
     display: list-item;
     margin: 0 auto;
+    width: 100%;
 }
 
 .social-home .svg-icon {
@@ -46,6 +47,10 @@
     padding: 5px 3px 2px 5px;
     color: #ffffff;
     vertical-align: text-bottom;
+}
+
+.social-home li{
+    float: none;
 }
 
 .social-home li a {
