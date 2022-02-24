@@ -1,2 +1,16 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-header{
+    background: rgb(58,79,180);
+    background: -moz-linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    background: linear-gradient(90deg, rgba(58,79,180,1) 36%, rgba(29,253,96,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3a4fb4",endColorstr="#1dfd60",GradientType=1);
+}
+
+.site-title {
+    text-align: center;
+    width: 100%;
+    color: #ffffff!important;
+}
