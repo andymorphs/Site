@@ -1,4 +1,4 @@
-# Hi it's AndyMorphs
+# Hi! It's AndyMorphs!
 
 You can use the [editor on GitHub](https://github.com/andymorphs/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
