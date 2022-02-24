@@ -10,8 +10,6 @@ layout: home
 
 Home Page 
 
-{%- include social.html -%}
-
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
